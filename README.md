@@ -1,2 +1,1 @@
-# AtCoder
-AtCoder 記録リポジトリ
+# AtCoder記録用リポジトリ
