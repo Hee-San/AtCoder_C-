@@ -1,4 +1,4 @@
-// C - •——ÍŠÏ‘ª
+// C - é¢¨åŠ›è¦³æ¸¬
 // http://abc001.contest.atcoder.jp/tasks/abc001_2
 using System;
 using System.Linq;
@@ -29,7 +29,7 @@ namespace ABC001A {
 		}
 		
 		String Direction(int deg) {
-			// deg [“x*10]
+			// deg [åº¦*10]
 			String[] dir = {"N", "NNE", "NE", "ENE",
 							"E", "ESE", "SE", "SSE",
 							"S", "SSW", "SW", "WSW",

@@ -1,4 +1,4 @@
-//A - Ïá[·
+//A - ç©é›ªæ·±å·®
 //http://abc001.contest.atcoder.jp/tasks/abc001_1
 using System;
 
