@@ -1,5 +1,5 @@
-//A - 積雪深差
-//http://abc001.contest.atcoder.jp/tasks/abc001_1
+// A - 積雪深差
+// http://abc001.contest.atcoder.jp/tasks/abc001_1
 using System;
 
 namespace ABC001A {
