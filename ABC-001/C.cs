@@ -1,9 +1,9 @@
 // C - 風力観測
-// http://abc001.contest.atcoder.jp/tasks/abc001_2
+// http://abc001.contest.atcoder.jp/tasks/abc001_3
 using System;
 using System.Linq;
 
-namespace ABC001A {
+namespace ABC001C {
 	class Program {
 		public Program() {}
 		
